@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Integpit/static/css/main.407a9d11.css",
+    "main.js": "/Integpit/static/js/main.0c872187.js",
+    "index.html": "/Integpit/index.html",
+    "main.407a9d11.css.map": "/Integpit/static/css/main.407a9d11.css.map",
+    "main.0c872187.js.map": "/Integpit/static/js/main.0c872187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407a9d11.css",
+    "static/js/main.0c872187.js"
+  ]
+}
