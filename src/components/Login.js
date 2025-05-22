@@ -14,7 +14,7 @@ function Login() {
     setError('');
     try {
       const response = await axios.post(
-        'https://integrative-programming.onrender.com/api/auth/token/login/',
+        'https://appdevpitback-1.onrender.com/api/auth/token/login/',
         { username, password }
       );
       const token = response.data.auth_token;
