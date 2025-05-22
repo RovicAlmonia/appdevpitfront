@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://integrative-programming.onrender.com/api',
+  baseURL: 'https://appdevpitback-1.onrender.com/api',
 });
 
 // Add the Authorization header to all requests if token exists
